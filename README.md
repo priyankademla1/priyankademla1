@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm an experienced risk analytics professional with a demonstrated history of working in the credit and fraud risk 
+I'm an experienced risk analytics professional with a demonstrated history of working in the financial services
 industry. I was involved in the deployment of predictive risk models for small and medium enterprises to help 
 provide data driven decision support and strategy support to credit policy, collections, and product teams. I am 
 skilled in analyzing large datasets in Python, R, SQL, SAS, and Excel, generating recommendations, and presenting 
